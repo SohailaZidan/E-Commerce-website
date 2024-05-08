@@ -1,0 +1,6 @@
+Notes........
+Url Product  "https://dummyjson.com/products/category/mens-watches"
+----------------------------------------------------------------
+To Show Users in table , i am conver Global API to Local
+open terminal Write in Terminal
+>npx json-server --watch db.json --port 3031

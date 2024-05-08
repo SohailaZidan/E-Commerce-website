@@ -1,0 +1,18 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "5977bcc2-921b-4dda-a391-344fddfdaf2e",
+      "favorite": {
+        "name": "Fcsi"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "connectionSecrets": "AAESfLU1U135uIIE58ovp4ZJ+X6l+cVgCAKd+4E5bGAOTVwyQic3dPu/KCVomzkmRMQnlxLW1Ng6cSyf5+fVDQ=="
+    }
+  ] 
+}
